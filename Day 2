@@ -1,0 +1,33 @@
+The most basic syntax of javascript is defining a Javascript file.
+
+Javascript files have a .js extension.
+
+
+Examples:
+
+newjavascript.js
+helloworld.js
+mycode.js
+
+If you wish to internally code javascript into a HTML file, use the SCRIPT tags:
+
+
+<script>
+
+</script>
+
+
+
+Javascript comments have 2 forward slashesbefore them.
+
+//This is a comment
+//This is another comment.
+
+
+The comments can also span multiple lines, but have one forward slash, followed by an asterisk,
+then closed with an asterisk then a backslash..
+
+/* This comment is the first line
+second line
+third line
+last line */
